@@ -11,7 +11,3 @@ function cb(error, content )
      console.log(content+" ")
 }
 console.log("After")
-console.log("After")
-console.log("After")
-console.log("After")
-console.log("After")
